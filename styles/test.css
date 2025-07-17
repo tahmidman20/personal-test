@@ -1,0 +1,20 @@
+/* nav section style */
+
+nav{
+    margin-right: 100px;
+}
+.nav-menu > a, li{
+    list-style: none;
+   
+}
+.nav-link{
+    text-decoration: none;
+    color: #3C3C3C;
+}
+.nav-menu{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    font-weight: 500;
+    font-size: 1rem;
+}
