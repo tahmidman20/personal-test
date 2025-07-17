@@ -1,5 +1,8 @@
 /* nav section style */
 
+/* body{
+    max-width: 1440px;
+} */
 nav{
     margin-right: 100px;
 }
@@ -17,4 +20,14 @@ nav{
     justify-content: end;
     font-weight: 500;
     font-size: 1rem;
+}
+/* main section */
+
+
+/* intro section style */
+.intro-section{
+    display: flex;
+}
+.image{
+    width: 100%;
 }
